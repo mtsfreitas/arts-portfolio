@@ -8,4 +8,4 @@ Tools used:
 2. Adobe Photoshop
 3. CorelDRAW
 
-![image](https://github.com/mtsfreitas/arts-portfolio/assets/21324690/3d88db71-7341-45bd-aea6-3a1cbaa87e33)
+![image](https://github.com/mtsfreitas/arts-portfolio/assets/21324690/8e9283f1-47c0-430a-b568-2998648fd3a1)
