@@ -1,6 +1,6 @@
 # arts-portfolio
 
-## Here you will find some freelance jobs I've done as a graphic designer
+## Here you will find some freelance jobs I've done as a UI/UX designer
 
 Tools used:
 
